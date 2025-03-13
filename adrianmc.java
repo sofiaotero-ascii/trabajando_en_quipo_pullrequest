@@ -10,5 +10,7 @@ public class adrianmc {
     int adrian3 =2;
     int sofia=2;
 
+    int sofia2 = 2;
+
 
 }
