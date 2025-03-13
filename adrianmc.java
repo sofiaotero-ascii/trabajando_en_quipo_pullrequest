@@ -10,4 +10,6 @@ public class adrianmc {
     int adrian3 =2;
 
 
+    int sofia = 0;
+
 }
