@@ -8,6 +8,7 @@ public class adrianmc {
     int adrian2 = 1;
 
     int adrian3 =2;
+    int sofia=2;
 
 
 }
