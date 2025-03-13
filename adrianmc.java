@@ -5,5 +5,7 @@ import org.w3c.dom.ls.LSOutput;
 public class adrianmc {
     int adrian= 0;
 
+    int adrian2 = 1;
+
 
 }
